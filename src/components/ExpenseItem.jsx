@@ -7,7 +7,7 @@ const Home = (props) => {
   return (
     <>
       <section className="flex justify-center items-center ">
-        <div className="flex justify-between bg-blue-100 p-5  rounded-xl shadow-lg items-center w-6/12  mt-6">
+        <div className="flex justify-between bg-blue-100 p-5 rounded-xl shadow-lg items-center w-6/12 mt-6">
           <div className=" flex font-medium items-center space-x-6">
             <div className=" text-center w-32  bg-indigo-400  py-3 rounded-xl text-white">
               <div>{month}</div>
